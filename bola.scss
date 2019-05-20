@@ -1,0 +1,7 @@
+@import "reset.scss"
+
+$border-inicial: 1px solid black;
+
+#canvas{
+    border: $border-inicial;
+}
